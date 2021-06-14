@@ -1,0 +1,4 @@
+models/*
+.DS_Store
+ideal/
+*.pyc
